@@ -26,7 +26,7 @@ git clone https://github.com/Rezy-Dev/WpEnumX.git
 
 To run WpEnumX, use the following command in your terminal:
 
-`python WpEnumX.py --wp-url=https://blog.example.com/` 
+`python3 WpEnumX.py --wp-url=https://blog.example.com/` 
 
 Replace `https://blog.example.com/` with the target WordPress site URL you want to analyze.
 
